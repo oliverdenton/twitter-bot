@@ -1,5 +1,5 @@
 # twitter-bot
-@MindfulMike - a Twitter bot created (mainly) to learn the basics of Google cloud (cloud functions and scheduling). Discovering how lots of tasks can be automated with Google sheets and Python using cloud technologies.
+@MindfulMike - a Twitter bot created to try out the basics of Google cloud (functions and scheduling), and to discover how lots of tasks can be automated with Google sheets and Python using cloud.
 
 Other technologies used include:
 - Python
